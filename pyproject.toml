@@ -51,8 +51,8 @@ dependencies = [
     "pymunk>=6.6.0",
     "rerun-sdk>=0.21.0",
     "termcolor>=2.4.0",
-    "torch==2.2.0+cu121",
-    "torchvision>=0.17.0",
+    "torch==2.4.0+cu124",
+    "torchvision>=0.19.0",
     "wandb>=0.16.3",
     "zarr==2.15.0"
 ]
